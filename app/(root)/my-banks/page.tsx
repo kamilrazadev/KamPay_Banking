@@ -4,7 +4,7 @@ export const metadata = {
   title: "My Banks | KamPay Banking",
   description: "An ultimate modern banking platform for everyone",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/icons/logo.webp",
   },
 };
 
