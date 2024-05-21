@@ -3,6 +3,11 @@ import RightSidebar from "@/components/RightSidebar";
 import TotalBalanceBox from "@/components/TotalBalanceBox";
 import React from "react";
 
+export const metadata = {
+  title: "KamPay",
+  description: "Easy online banking solution for everyone"
+}
+
 const Home = () => {
   const dummyBanksAndAccounts = [
     {
