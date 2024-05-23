@@ -4,7 +4,7 @@ import TotalBalanceBox from "@/components/TotalBalanceBox";
 import React from "react";
 
 export const metadata = {
-  title: "Home | KamPay",
+  title: "Home | KamPay Banking",
   description: "Easy online banking solution for everyone",
 };
 
